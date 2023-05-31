@@ -1,7 +1,7 @@
 # Bloque-de-CSS
 
 ### Ejercicio 1: Input CSS Realizado!
-### Respuestas Ejercicio de Selectores 1
+### Primer ejercicio de Selectores Realizado!
+### Segundo ejercicio de Selectores Realizado!
 
 
-![Respuestas del Ejercicio de Selectores.](.\respuestas.png)
