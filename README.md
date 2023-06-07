@@ -5,3 +5,5 @@
 ### Ejercicio Columnas Realizado! :white_check_mark:
 ### Ejercicio Border Realizado! :white_check_mark:
 ### Ejercicio Text-align Realizado! :white_check_mark:
+### Ejercicio Border-Radius Realizado! :white_check_mark:
+### Ejercicio Overflow Realizado! :white_check_mark:
