@@ -1,0 +1,87 @@
+/* Ejercicio 1 */
+*{
+
+}
+
+/* Ejercicio 2 */
+p{
+
+}
+
+/* Ejercicio 3 */
+#title-1{
+
+}
+
+/* Ejercicio 4 */
+.bg-yellow{
+
+}
+
+/* Ejercicio 5 */
+[id]{
+
+}
+
+/* Ejercicio 6 */
+[id=title-1]{
+
+}
+
+/* Ejercicio 7 */
+[href="https://www.yahoo.com"]{
+
+}
+
+/* Ejercicio 8 */
+[class^="title"]{
+
+}
+
+/* Ejercicio 9 */
+[href$=".com"]{
+
+}
+
+
+/* Ejercicio 10 */
+[class|="title, title-1, title-2"]{
+
+}
+
+/* Ejercicio 11 */
+[href*="127"]{
+
+}
+
+/* Ejercicio 12 */
+[href^="http"]{
+
+}
+
+/* Ejercicio 13 */
+a, p, h1{
+
+}
+
+/* Ejercicio 14 */
+main .p{
+
+}
+
+
+/* Ejercicio 15 */
+h1 + p{
+
+}
+
+/* Ejercicio 16 */
+h1 + a{
+
+}
+
+
+/* Ejercicio 17 */
+main > a{
+
+}
