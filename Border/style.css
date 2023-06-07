@@ -1,0 +1,19 @@
+*{
+    margin: 40px;
+}
+
+h1{
+    color: brown;
+}
+
+main{
+    border-top: 4px dotted green;
+    border-bottom: 4px double black;
+    border-right: 4px solid red;
+    border-left: 4px dashed blue;
+
+}
+
+
+
+
