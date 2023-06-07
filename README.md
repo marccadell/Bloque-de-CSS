@@ -29,3 +29,4 @@ _ _ _
 
 - El **asterisco** no tiene ningúna prioridad.
 
+### Ejercicio Columnas Realizado! :white_check_mark:
