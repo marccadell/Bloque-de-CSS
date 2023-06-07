@@ -7,3 +7,5 @@
 ### Ejercicio Text-align Realizado! :white_check_mark:
 ### Ejercicio Border-Radius Realizado! :white_check_mark:
 ### Ejercicio Overflow Realizado! :white_check_mark:
+### Ejercicio Outline Realizado! :white_check_mark:
+### Ejercicio Posicionamiento Realizado! :white_check_mark:
