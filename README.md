@@ -9,3 +9,4 @@
 ### Ejercicio Overflow Realizado! :white_check_mark:
 ### Ejercicio Outline Realizado! :white_check_mark:
 ### Ejercicio Posicionamiento Realizado! :white_check_mark:
+### Ejercicio Diana Realizado! :white_check_mark:

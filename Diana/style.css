@@ -1,0 +1,160 @@
+html{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+
+.container{
+   margin: 50px;
+}
+
+
+.forma3{
+    margin-top: 267px;
+    margin-left: 230px;
+    width: 260px;
+    height: 260px;
+    position: fixed;
+    padding: 5px 8px 10px 8px;
+    background-color: red;
+    border: 2px solid red;
+    outline: 3px inset white;
+    border-radius: 50%;
+    z-index: 980;
+}
+
+.linea-horizontal, .linea-vertical{
+    position: absolute;
+    background-color: black;
+    z-index: 999;
+}
+
+.linea-horizontal{
+    top: 333px;
+    left: 427px;
+    right: 337px;
+    bottom: 86px;
+}
+
+.linea-vertical{
+    top: 470px;
+    left: 286px;
+    right: 196px;
+    bottom: 231px;
+}
+
+.forma4{
+    margin-top: 247px;
+    margin-left: 210px;
+    width: 300px;
+    height: 300px;
+    position: fixed;
+    padding: 5px 8px 10px 8px;
+    background-color: lightgray;
+    outline: 2px outset black;
+    border-radius: 50%;
+    z-index: 979;
+}
+
+.forma5{
+    margin-top: 271px;
+    margin-left: 235px;
+    width: 250px;
+    height: 250px;
+    position: fixed;
+    padding: 5px 8px 10px 8px;
+    background-color: white;
+    border: 2px solid white;
+    border-radius: 50%;
+    z-index: 980;
+}
+
+.forma6{
+    margin-top: 292px;
+    margin-left: 255px;
+    width: 210px;
+    height: 210px;
+    position: fixed;
+    padding: 5px 8px 10px 8px;
+    background-color: red;
+    border: 2px solid red;
+    border-radius: 50%;
+    z-index: 980;
+}
+
+.forma7{
+    margin-top: 306px;
+    margin-left: 270px;
+    width: 180px;
+    height: 180px;
+    position: fixed;
+    padding: 5px 8px 10px 8px;
+    background-color: white;
+    border: 2px solid white;
+    border-radius: 50%;
+    z-index: 980;
+}
+
+.forma8{
+    margin-top: 321px;
+    margin-left: 285px;
+    width: 150px;
+    height: 150px;
+    position: fixed;
+    padding: 5px 8px 10px 8px;
+    background-color: red;
+    border: 2px solid red;
+    border-radius: 50%;
+    z-index: 980;
+}
+
+.forma9{
+    margin-top: 336px;
+    margin-left: 300px;
+    width: 120px;
+    height: 120px;
+    position: fixed;
+    padding: 5px 8px 10px 8px;
+    background-color: white;
+    border: 2px solid white;
+    border-radius: 50%;
+    z-index: 980;
+}
+
+.forma10{
+    margin-top: 351px;
+    margin-left: 315px;
+    width: 90px;
+    height: 90px;
+    position: fixed;
+    padding: 5px 8px 10px 8px;
+    background-color: red;
+    border: 2px solid red;
+    border-radius: 50%;
+    z-index: 980;
+}
+
+.forma11{
+    margin-top: 365px;
+    margin-left: 330px;
+    width: 60px;
+    height: 60px;
+    position: fixed;
+    padding: 5px 8px 10px 8px;
+    background-color: white;
+    border: 2px solid white;
+    border-radius: 50%;
+    z-index: 980;
+}
+
+.forma12{
+    margin-top: 380px;
+    margin-left: 345px;
+    width: 30px;
+    height: 30px;
+    position: fixed;
+    padding: 5px 8px 10px 8px;
+    background-color: red;
+    border: 2px solid red;
+    border-radius: 50%;
+    z-index: 980;
+}
