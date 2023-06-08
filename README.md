@@ -12,3 +12,4 @@
 ### Ejercicio Diana Realizado! :white_check_mark:
 ### Ejercicio Float Realizado! :white_check_mark:
 ### Ejercicio Float + Clear Realizado! :white_check_mark:
+### Ejercicio RGB Colores Realizado! :white_check_mark:
