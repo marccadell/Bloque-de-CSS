@@ -14,3 +14,7 @@
 ### Ejercicio Float + Clear Realizado! :white_check_mark:
 ### Ejercicio RGB Colores Realizado! :white_check_mark:
 ### Ejercicio Media Query Realizado! :white_check_mark:
+### Ejercicio FlexBoxFroggy Realizado! :white_check_mark:
+### Ejercicio FlexBoxDefense Realizado! :white_check_mark:
+### Ejercicio Grid Realizado! :white_check_mark:
+### Ejercicio Front End Mentor Realizado! :white_check_mark:
