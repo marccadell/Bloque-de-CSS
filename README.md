@@ -18,3 +18,6 @@
 ### Ejercicio FlexBoxDefense Realizado! :white_check_mark:
 ### Ejercicio Grid Realizado! :white_check_mark:
 ### Ejercicio Front End Mentor Realizado! :white_check_mark:
+### Ejercicio Front End Mentor Realizado! :white_check_mark:
+### Ejercicio Spotify Realizado! :white_check_mark:
+### Ejercicio CSSGridGarden Realizado! :white_check_mark:
